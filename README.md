@@ -1,10 +1,12 @@
 # OVERVIEW
 
-1. **примеры кодов на yii2 (API + интеграция с EDI)** - в проекте используется PHP версии 7.1 и MySQL \
+1. **примеры кодов на yii2 (API + интеграция с EDI)** - в проекте используется PHP версии 7.1 и БД MySQL \
 https://github.com/agile-webmaster/yii2-api-mc-php71
 
-2. PHP-коды проекта Rentabox **(результат за полтора года в очень урезанном, но крайне репрезентативном виде)** - в проекте > используется PHP версии 5.6
-https://github.com/agile-webmaster/php-native-56/tree/master/WEB
+2. PHP-коды проекта Rentabox **(результат за полтора года в очень урезанном, но крайне репрезентативном виде)** \
+https://github.com/agile-webmaster/php-native-56/tree/master/WEB \
+В проекте используются PHP версии 5.6/7.0 (частично), а также \ 
+технологии контейнеризации, Redis, SAP Spacemanager, MySQL + Postgres (с пробладанием первого)
 
 3. **Выдержки из техдокументации относительно архитектуры баз данных и интеграции Rentabox (основные таблицы и зависимости)**
 https://github.com/agile-webmaster/php-native-56/blob/master/TECHDOC/rbox.tech.-.db.2015-04-11.2-0-2_example.pdf
