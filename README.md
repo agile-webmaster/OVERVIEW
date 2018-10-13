@@ -9,8 +9,9 @@ https://github.com/agile-webmaster/php-native-56/tree/master/WEB \
 *В проекте используются PHP версий 5.6/7.0 (частично), а также самописный менеджер очередей с частичной заменой на RMQ, \ 
 технологии контейнеризации, Redis, SAP Space Manager, SQL / MySQL / Postgres (с пробладанием первого и второго решения)*
 
-3. **Выдержки из техдокументации относительно архитектуры баз данных и интеграции Rentabox (основные таблицы и зависимости)** \
-https://github.com/agile-webmaster/php-native-56/blob/master/TECHDOC/rbox.tech.-.db.2015-04-11.2-0-2_example.pdf
+3. **Выдержки из технической документации относительно архитектуры БД и механизмов интеграции международной складской компании Rentabox, входящих в то время TOP-3 поставщиков self-storage услуг в России ** \
+https://github.com/agile-webmaster/php-native-56/blob/master/TECHDOC/rbox.tech.-.db.2015-04-11.2-0-2_example.pdf \
+*(основные таблицы и зависимости)*
 
 4. **Документация по проекту автоматизации системы закупок "АСОЗД-2" для ООО "Компания "Канцтанта"**
 https://github.com/agile-webmaster/techdoc-kanctanta/blob/master/TechDoc_ASOZD.pdf
