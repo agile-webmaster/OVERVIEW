@@ -1,13 +1,17 @@
 # OVERVIEW
-about other repos
 
-https://github.com/agile-webmaster/yii2-api-mc-php71 - примеры кодов на yii2 (апи + интеграция с системами документооборота)
+1. **примеры кодов на yii2 (апи + интеграция с системами документооборота)** - версия 7.1
+https://github.com/agile-webmaster/yii2-api-mc-php71
 
-https://github.com/agile-webmaster/php-native-56/tree/master/WEB - код проекта Rentabox (результат за полтора года в очень урезанном, но крайне репрезентативном виде)
+2. PHP-коды проекта Rentabox **(результат за полтора года в очень урезанном, но крайне репрезентативном виде)** - версия 5.6
+https://github.com/agile-webmaster/php-native-56/tree/master/WEB
 
-https://github.com/agile-webmaster/php-native-56/blob/master/TECHDOC/rbox.tech.-.db.2015-04-11.2-0-2_example.pdf - выдержки из архитектуры БД для Rentabox (основные таблицы и зависимости)
+3. **Выдержки из техдокументации относительно архитектуры баз данных и интеграции Rentabox (основные таблицы и зависимости)**
+https://github.com/agile-webmaster/php-native-56/blob/master/TECHDOC/rbox.tech.-.db.2015-04-11.2-0-2_example.pdf
 
-https://github.com/agile-webmaster/techdoc-kanctanta/blob/master/TechDoc_ASOZD.pdf - документация по проекту автоматизации системы закупок
+4. Документация по проекту автоматизации системы закупок "АСОЗД-2" Компании Канцтанта
+https://github.com/agile-webmaster/techdoc-kanctanta/blob/master/TechDoc_ASOZD.pdf
+*(Автоматизированная система организации закупок версии 2 для ООО Компания Канцтанта - лидера рынка канцтоваров в сегменте поставок B2B) - изначально была создана для интеграции с TOP-100 крупнейших компаний России (2013 - 2014 гг)*
 
 https://github.com/agile-webmaster/techdoc-abirix-devops-localhost/blob/master/techdoc_archlinux-3_example.pdf - Инструкция по развертыванию системы модулей ABIRIX на локальной машине разработчика и в песочнице
 
