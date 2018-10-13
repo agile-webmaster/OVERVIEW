@@ -12,16 +12,19 @@ https://github.com/agile-webmaster/php-native-56/tree/master/WEB \
 https://github.com/agile-webmaster/php-native-56/blob/master/TECHDOC/rbox.tech.-.db.2015-04-11.2-0-2_example.pdf \
 *В документе представлены основные таблицы и зависимости (для справки: Rentabox - международная складская компания, входящих в TOP-3 поставщиков self-storage услуг в России (на момент подготовки документации))*
 
-4. **Документация по проекту автоматизации системы закупок "АСОЗД-2" для ООО "Компания "Канцтанта"**
-https://github.com/agile-webmaster/techdoc-kanctanta/blob/master/TechDoc_ASOZD.pdf
-*(Автоматизированная система организации закупок версии 2 для ООО Компания Канцтанта - лидера рынка канцтоваров в сегменте поставок B2B) \
-Проекта изначально планировался для обсуживания нужд интеграции корпоративной системы с инфраструктурой TOP-100 крупнейших компаний России (для периода 2013 - 2014 гг это было очень круто!)*
+4. **Документация по проекту автоматизации системы закупок "АСОЗД-2" для ООО "Компания "Канцтанта"** \
+https://github.com/agile-webmaster/techdoc-kanctanta/blob/master/TechDoc_ASOZD.pdf \
+*АСОЗД-2 расшифровывается как "Автоматизированная система организации закупок версии 2" для ООО Компания Канцтанта - лидера рынка канцтоваров в сегменте поставок B2B. Данный проекта изначально планировался для обсуживания нужд интеграции корпоративной системы компании с инфраструктурой TOP-100 крупнейших компаний России (для периода 2013 - 2014 гг это было очень круто!)*
 
-https://github.com/agile-webmaster/techdoc-abirix-devops-localhost/blob/master/techdoc_archlinux-3_example.pdf - Инструкция по развертыванию системы модулей ABIRIX на локальной машине разработчика и в песочнице
+5. **DevOps Инструкция по развертыванию системы модулей в рамках развития проекта ABIRIX** \
+https://github.com/agile-webmaster/techdoc-abirix-devops-localhost/blob/master/techdoc_archlinux-3_example.pdf \
+Инструкция по развертыванию системы модулей ABIRIX на локальной машине разработчика и в песочнице
 
-https://github.com/agile-webmaster/techdoc-leadprofit/blob/master/Leadprofit.%20Integration.%20Advertizers.pdf - LeadProfit. Инструкция по настройке кампаний и постбеков в кейтаро, пларин и искандер
+6. **LeadProfit. Инструкция по настройке кампаний и постбеков в кейтаро, пларин и искандер (проект LEADPROFIT.BIZ)** \
+https://github.com/agile-webmaster/techdoc-leadprofit/blob/master/Leadprofit.%20Integration.%20Advertizers.pdf 
 
-https://github.com/agile-webmaster/techdoc-leadprofit/blob/master/Leadprofit.%20Memo.%20Callback%2C%20postback%2C%20Iskander%2C%20Keitaro.pdf - LeadProfit. Инструкция по интеграции для Рекламодателей
+7. **LeadProfit. Инструкция по интеграции для Рекламодателей (проект LEADPROFIT.BIZ)** \
+https://github.com/agile-webmaster/techdoc-leadprofit/blob/master/Leadprofit.%20Memo.%20Callback%2C%20postback%2C%20Iskander%2C%20Keitaro.pdf
 
 https://github.com/agile-webmaster/techdoc-fns-rossii/blob/master/interactive_brochure_final_i.pdf - ФНС РОССИИ. БРОШЮРА. ИНТЕРАКТИВНЫЕ СЕРВИСЫ. ФОТО РУКОВОДИТЕЛЯ ПРОЕКТА (МОЕ) НА ГЛАВНОЙ СТРАНИЦЕ.
 
