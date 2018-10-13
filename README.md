@@ -21,12 +21,18 @@ https://github.com/agile-webmaster/techdoc-abirix-devops-localhost/blob/master/t
 Инструкция по развертыванию системы модулей ABIRIX на локальной машине разработчика и в песочнице
 
 6. **LeadProfit. Инструкция по настройке кампаний и постбеков в кейтаро, пларин и искандер (проект LEADPROFIT.BIZ)** \
-https://github.com/agile-webmaster/techdoc-leadprofit/blob/master/Leadprofit.%20Integration.%20Advertizers.pdf 
-
-7. **LeadProfit. Инструкция по интеграции для Рекламодателей (проект LEADPROFIT.BIZ)** \
 https://github.com/agile-webmaster/techdoc-leadprofit/blob/master/Leadprofit.%20Memo.%20Callback%2C%20postback%2C%20Iskander%2C%20Keitaro.pdf
 
-https://github.com/agile-webmaster/techdoc-fns-rossii/blob/master/interactive_brochure_final_i.pdf - ФНС РОССИИ. БРОШЮРА. ИНТЕРАКТИВНЫЕ СЕРВИСЫ. ФОТО РУКОВОДИТЕЛЯ ПРОЕКТА (МОЕ) НА ГЛАВНОЙ СТРАНИЦЕ.
+7. **LeadProfit. Инструкция по интеграции для Рекламодателей (проект LEADPROFIT.BIZ)** \
+https://github.com/agile-webmaster/techdoc-leadprofit/blob/master/Leadprofit.%20Integration.%20Advertizers.pdf
 
-https://www.umi-cms.ru/product/reviews/#dev - мой отзыв о сотрудничестве с компание ЮМИ (пятый сверху). P.S. Компания Юми в 2017 году занимала 2е место на рынке CMS, вследствие чего в том же году была поглощена лидером рынка - "Компанией 1С"
+8. **ФНС РОССИИ. БРОШЮРА "ИНТЕРАКТИВНЫЕ СЕРВИСЫ ФНС РОССИИ"** \
+https://github.com/agile-webmaster/techdoc-fns-rossii/blob/master/interactive_brochure_final_i.pdf \
+ФОТО РУКОВОДИТЕЛЯ ПРОЕКТА (МОЕ) - НА ГЛАВНОЙ СТРАНИЦЕ И ДАЛЕЕ... \ 
+P.S. Есть и другие успешно завершенные проекты для этой структуры
+
+9. Ссылка на мой отзыв о сотрудничестве с компание ЮМИ (пятый сверху, компания опубликовала его в 2015 году). \
+https://www.umi-cms.ru/product/reviews/#dev \
+По итогам 2017 года Компания Юми занимала 2-е место по объему продаж лицензий на рынке CMS в России. В том же году была поглощена лидером рынка - "Компанией 1С". В настоящее время мое сотрудничество с данной компанией приостановлено, но опыт сотрудничества пусть и небольшоей, все же когда то был...
+
 
