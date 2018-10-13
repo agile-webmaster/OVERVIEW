@@ -6,3 +6,5 @@ https://github.com/agile-webmaster/yii2-api-mc - примеры кодов на 
 https://github.com/agile-webmaster/php-native-56/tree/master/WEB - код проекта Rentabox (результат за полтора года в очень урезанном виде)
 
 https://github.com/agile-webmaster/php-native-56/blob/master/TECHDOC/rbox.tech.-.db.2015-04-11.2-0-2_example.pdf - выдержки из архитектуры Rentabox
+
+https://github.com/agile-webmaster/techdoc-kanctanta/blob/master/TechDoc_ASOZD.pdf - документация по проекту автоматизации системы закупок
